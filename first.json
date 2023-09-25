@@ -1,0 +1,14 @@
+{
+  "name": "Vishal",
+  "age": 20,
+  "marks": 91.3,
+  "pass": true,
+  "fail": null,
+  "myObj": {
+    "name": "harry",
+    "age": 30,
+    "marks": 91.3,
+    "useArr2": ["trash", "hinata", "tenten", "tsunate"]
+  },
+  "useArr": ["harsh", "anit", "amish", "naruto", "saske", "kakashi"]
+}
